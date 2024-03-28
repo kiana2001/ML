@@ -1,3 +1,5 @@
 /venv
 /Test
 /.vscode
+/dataset
+backup.ipynb
