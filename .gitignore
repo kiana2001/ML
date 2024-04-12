@@ -1,5 +1,5 @@
-/venv
-/Test
-/.vscode
-/dataset
-backup.ipynb
+**/venv
+**/Test
+**/.vscode
+**/dataset
+**backup.ipynb
